@@ -36,14 +36,10 @@ This is a Python script. It has been designed to work with Python 2.7, which com
 
 ## Author
 
-This script was created by [Benjamin Esham](http://esham.io).
+This script was created by [Benjamin Esham](https://esham.io).
 
 This project is [hosted on GitHub](https://github.com/bdesham/vesper2-export). Please feel free to submit pull requests.
 
 ## License
 
-Copyright © 2015, Benjamin Esham. This software is released under the following version of the MIT license:
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following condition: the above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-**The software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.**
+Copyright © 2015 Benjamin D. Esham. This program is released under the ISC license, which you can find in the file LICENSE.md.

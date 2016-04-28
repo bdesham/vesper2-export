@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 #
 # vesper2-export
-# https://github.com/bdesham/vesper2-export
 #
-# Copyright (c) Benjamin Esham, 2015
-# See README.md for full copyright information.
+# Export notes from Vesper as a folder of text files
+#
+# Copyright (c) 2015 Benjamin D. Esham. This program is released under the ISC
+# license, which you can find in the file LICENSE.md.
 
 from __future__ import print_function
 from argparse import ArgumentParser
